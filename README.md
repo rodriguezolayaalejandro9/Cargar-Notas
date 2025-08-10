@@ -27,6 +27,7 @@ Valida formatos, detecta duplicados, asegura el orden esperado de los desempeño
 - NumPy  
 - openpyxl
 
+---
 
 ## 📄 Notas
 - El script está diseñado para integrarse con la estructura de datos del **Colegio Gimnasio Kaiporé**.
