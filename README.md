@@ -27,9 +27,10 @@ Valida formatos, detecta duplicados, asegura el orden esperado de los desempeño
 - NumPy  
 - openpyxl
 
-Este script está adaptado para la estructura de datos del **Colegio Gimnasio Kaiporé**.
 
-Automatiza un proceso que antes realizaban **2 coordinadores**, cada uno dedicando aproximadamente **2 horas semanales** a la validación y consolidación de notas.
-
-Gracias a este script, el mismo trabajo se completa en **menos de 2 minutos**, reduciendo drásticamente el tiempo invertido y eliminando la mayor parte de los errores manuales.
+## 📄 Notas
+- El script está diseñado para integrarse con la estructura de datos del **Colegio Gimnasio Kaiporé**.
+- Hay dos scripts, con diferencias muy concretas en las materias y áreas que se manejan diferente en primaria y bachillerato.
+- Automatiza un proceso que antes realizaban **2 coordinadores**, cada uno dedicando aproximadamente **2 horas semanales** a la validación y consolidación de notas.
+- Gracias a este script, el mismo trabajo se completa en **menos de 2 minutos**, reduciendo drásticamente el tiempo invertido y eliminando la mayor parte de los errores manuales.
 
